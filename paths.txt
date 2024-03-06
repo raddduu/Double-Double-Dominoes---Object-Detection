@@ -1,0 +1,2 @@
+evaluare/fake_test
+evaluare/fisiere_solutie/334_Ionescu_Radu-Constantin
